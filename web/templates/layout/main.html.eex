@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Test</title>
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+    <header>
+      <div>Dave Lage</div>
+    </header>
+    <div id="main-container">
+      <%= @inner %>
+    </div>
+    <footer>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+body {
+	padding: 1rem;
+  line-height: 1.6;
+}
+
+pre {
+  padding: 1rem;
+  background: #f1f1f1;
+}
+
+p {
+  margin-bottom: 1.6rem;
+}
+
+header, footer, #main-container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header > div {
+  font-size: 300%;
+  font-weight: bold;
+}
